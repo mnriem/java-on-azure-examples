@@ -10,3 +10,4 @@ parrot.jar
 target/
 *.iml
 dependency-reduced-pom.xml
+*.nocommit

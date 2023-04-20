@@ -7,12 +7,16 @@
         <artifactId>project</artifactId>
         <version>1-SNAPSHOT</version>
     </parent>
-    <artifactId>keyvault-spring-boot-mtls-client-side</artifactId>
-    <name>Azure Key Vault :: Create a client-side mTLS Spring Boot application</name>
+    <artifactId>keyvault-spring-boot-certsendemail</artifactId>
+    <name>Azure Key Vault :: Certificate-based send email Spring Boot application</name>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-mail</artifactId>
         </dependency>
         <dependency>
             <groupId>com.azure.spring</groupId>

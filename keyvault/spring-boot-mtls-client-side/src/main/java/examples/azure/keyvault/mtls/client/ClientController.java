@@ -9,9 +9,11 @@ import java.security.NoSuchAlgorithmException;
 import java.security.UnrecoverableKeyException;
 import java.security.cert.CertificateException;
 import java.util.Map;
+import javax.net.SocketFactory;
 import javax.net.ssl.HostnameVerifier;
 import javax.net.ssl.SSLContext;
 import javax.net.ssl.SSLSession;
+import javax.net.ssl.SSLSocketFactory;
 import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
 import org.apache.http.conn.ssl.TrustSelfSignedStrategy;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -69,7 +71,7 @@ public class ClientController {
                     .loadKeyMaterial(ks, "".toCharArray(), new ClientPrivateKeyStrategy())
                     .loadTrustMaterial(ks, new TrustSelfSignedStrategy())
                     .build();
-
+            
             HostnameVerifier allowAll = (String hostName, SSLSession session) -> true;
             SSLConnectionSocketFactory csf = new SSLConnectionSocketFactory(sslContext, allowAll);
 
