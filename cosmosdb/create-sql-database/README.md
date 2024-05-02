@@ -1,8 +1,6 @@
 
 # Create a SQL database
 
-[![cosmosdb/create-sql-database/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/cosmosdb_create-sql-database_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/cosmosdb_create-sql-database_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

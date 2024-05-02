@@ -1,8 +1,6 @@
 
 # Deploy a GraalVM application using a container image
 
-[![appservice/container-graalvm/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-graalvm_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-graalvm_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.run()

@@ -1,8 +1,6 @@
 
 # Open PostgreSQL server firewall to your IP address
 
-[![postgres/open-firewall-to-your-ip/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/postgres_open-firewall-to-your-ip_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/postgres_open-firewall-to-your-ip_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

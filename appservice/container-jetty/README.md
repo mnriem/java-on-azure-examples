@@ -1,8 +1,6 @@
 
 # Deploy Jetty using a container image
 
-[![appservice/container-jetty/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-jetty_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-jetty_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

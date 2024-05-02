@@ -1,8 +1,6 @@
 
 # Load your Azure SQL database with data
 
-[![sql/load-your-mssql-database-with-data/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_load-your-mssql-database-with-data_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_load-your-mssql-database-with-data_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 5 * * 1) -->

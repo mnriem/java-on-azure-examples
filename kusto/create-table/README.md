@@ -1,8 +1,6 @@
 
 # Create a table
 
-[![kusto/create-table/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/kusto_create-table_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/kusto_create-table_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

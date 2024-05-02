@@ -1,7 +1,5 @@
 # Deploy a Helidon application
 
-[![containerapp/helidon/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_helidon_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_helidon_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

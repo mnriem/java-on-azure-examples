@@ -1,8 +1,6 @@
 
 # Deploy Glassfish using a container image
 
-[![appservice/container-glassfish/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-glassfish_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/appservice_container-glassfish_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.run()

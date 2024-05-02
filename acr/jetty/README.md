@@ -1,8 +1,6 @@
 
 # Push a Jetty Docker image to Azure Container Registry
 
-[![acr/jetty/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_jetty_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_jetty_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

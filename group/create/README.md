@@ -1,8 +1,6 @@
 
 # Create an Azure Resource Group
 
-[![group/create/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/group_create_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/group_create_README_md.yml)
-
 ## Prerequisites
 
 This example assume you are logged into Azure CLI and have set your default

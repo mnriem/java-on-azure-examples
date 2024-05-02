@@ -1,8 +1,6 @@
 
 # Add origins to an Azure Front Door Origin Group
 
-[![afd/add-origins-to-origin-group/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/afd_add-origins-to-origin-group_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/afd_add-origins-to-origin-group_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.run()

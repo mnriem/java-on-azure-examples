@@ -1,8 +1,6 @@
 
 # Deploy WildFly
 
-[![aks/wildfly/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_wildfly_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_wildfly_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 16 * * 4) -->

@@ -1,7 +1,5 @@
 # Execute a manual job
 
-[![containerapp/execute-manual-job/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_execute-manual-job_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_execute-manual-job_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

@@ -1,7 +1,5 @@
 # List job executions
 
-[![containerapp/list-job-executions/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_list-job-executions_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_list-job-executions_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

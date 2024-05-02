@@ -1,8 +1,6 @@
 
 # Deploy a Spring Boot application
 
-[![aks/springboot/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_springboot_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_springboot_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 19 * * 4) -->

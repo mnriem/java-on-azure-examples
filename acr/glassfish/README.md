@@ -1,8 +1,6 @@
 
 # Build and push a Glassfish application to Azure Container Registry
 
-[![acr/glassfish/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_glassfish_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_glassfish_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

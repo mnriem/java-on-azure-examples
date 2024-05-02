@@ -1,8 +1,6 @@
 
 # Load your PostgreSQL database with data
 
-[![postgres/load-your-postgresql-database-with-data/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/postgres_load-your-postgresql-database-with-data_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/postgres_load-your-postgresql-database-with-data_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

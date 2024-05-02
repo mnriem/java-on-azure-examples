@@ -1,7 +1,5 @@
 # Deploy WildFly
 
-[![containerapp/wildfly/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_wildfly_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_wildfly_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

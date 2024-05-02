@@ -1,8 +1,6 @@
 
 # Deploy a GraalVM application
 
-[![aks/graalvm/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_graalvm_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/aks_graalvm_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 20 * * 4) -->

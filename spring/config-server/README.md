@@ -1,8 +1,6 @@
 
 # Configure the Azure Spring Apps Config Server
 
-[![spring/config-server/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/spring_config-server_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/spring_config-server_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

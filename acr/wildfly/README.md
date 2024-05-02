@@ -1,8 +1,6 @@
 
 # Push a WildFly Docker image to Azure Container Registry
 
-[![acr/wildfly/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_wildfly_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_wildfly_README_md.yml)
-
 ## Prerequisites
 
 This example assumes you have previously completed the following examples:

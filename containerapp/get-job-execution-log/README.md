@@ -1,7 +1,5 @@
 # Get job execution log
 
-[![containerapp/get-job-execution-log/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_get-job-execution-log_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_get-job-execution-log_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

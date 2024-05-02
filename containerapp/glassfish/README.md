@@ -1,7 +1,5 @@
 # Deploy Glassfish on ACA
 
-[![containerapp/glassfish/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_glassfish_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_glassfish_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

@@ -1,8 +1,6 @@
 
 # Create an Azure Front Door Profile
 
-[![afd/create-profile/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/afd_create-profile_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/afd_create-profile_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.run()

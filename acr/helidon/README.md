@@ -1,8 +1,6 @@
 
 # Push a Helidon container image to Azure Container Registry
 
-[![acr/helidon/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_helidon_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/acr_helidon_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.run()

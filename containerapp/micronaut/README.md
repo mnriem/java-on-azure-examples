@@ -1,7 +1,5 @@
 # Deploy a Micronaut application
 
-[![containerapp/micronaut/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_micronaut_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/containerapp_micronaut_README_md.yml)
-
 ## Prerequisites
 
 <!-- 

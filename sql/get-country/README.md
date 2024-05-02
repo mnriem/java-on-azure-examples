@@ -1,8 +1,6 @@
 
 # Get country information (JDBC client)
 
-[![sql/get-country/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_get-country_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_get-country_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 6 * * 1) -->

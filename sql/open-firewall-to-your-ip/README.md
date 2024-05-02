@@ -1,8 +1,6 @@
 
 # Open Azure SQL server firewall to your IP address
 
-[![sql/open-firewall-to-your-ip/README.md](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_open-firewall-to-your-ip_README_md.yml/badge.svg)](https://github.com/Azure-Samples/java-on-azure-examples/actions/workflows/sql_open-firewall-to-your-ip_README_md.yml)
-
 ## Prerequisites
 
 <!-- workflow.cron(0 4 * * 1) -->
